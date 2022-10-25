@@ -1,0 +1,2 @@
+# MOTD
+FOR MY GAME!
